@@ -1,0 +1,4 @@
+select * into new_geners from gener;---->just copy data from gener table 
+					 to new _generes but not the
+					 constrained and create a table;
+inset into new_geners select * from geners where id in (1,2)--->insert data								from other table 

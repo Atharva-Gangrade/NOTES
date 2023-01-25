@@ -1,0 +1,6 @@
+sudo docker ps -a ---> will show the created or exited container
+sudo docker ps ----> will show the running container 
+sudo docker start containerid ---> will start the stopped container 
+sudo docker exec -it containerName [options] ---> will execute the docker and if we write the bash then it will open the bash 
+
+

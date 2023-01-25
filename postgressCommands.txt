@@ -1,0 +1,4 @@
+\d ---> for the showing sequence and table
+\dt --->will show the only tables
+\c ----> only for connect the database 
+\d tablename ---> will give details of table 

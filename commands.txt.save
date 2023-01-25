@@ -1,0 +1,9 @@
+sudo docker ps -a ---> will show the created or exited container
+sudo docker ps ----> will show the running container 
+sudo docker start containerid ---> will start the stopped container 
+sudo docker exec -it containerName [options] ---> will execute the docker and if we write the 
+
+
+\d ---> for the showing sequence and table
+\dt --->will show the only tables
+\c ----> only for connect the database 
