@@ -1,4 +1,4 @@
-##WOrks
+##Works
 Questionare on vr modeling
 urp vs hdrp
 interaction with rigged model
